@@ -1,0 +1,5 @@
+scapy
+python-nmap
+pyqt5
+nmap
+requests
